@@ -63,6 +63,7 @@
 <body>
 <h2>Welcome to Conway's Game Of Life!</h2>
 <h3>Testing the automated build - Idalia change</h3>
+<h3>Testing the automated build demo</h3>
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
         Life. The Game of Life is a cellular automaton devised by the British
