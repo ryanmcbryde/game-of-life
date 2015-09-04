@@ -62,9 +62,6 @@
 </head>
 <body>
 <h2>Welcome to Conway's Game Of Life!</h2>
-<h3>Testing the automated build - Idalia change</h3>
-<h3>Testing the automated build demo</h3>
-<h3>Testing the automated build - testing the Jenkins in the new instance</h3>
 <h3>Demo - Arthur</h3>
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
