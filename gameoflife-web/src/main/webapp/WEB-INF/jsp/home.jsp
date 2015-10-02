@@ -94,10 +94,19 @@
 	</p>	
 	
 	<p>
-		<iframe width="420" height="315"
-			src="https://youtu.be/FdMzngWchDk">
-		</iframe>	
+<object width="425" height="350">
+             <param name="movie" value="http://www.youtube.com/v/rxUm-2x-2dM"/>
+             <param name="wmode" value="transparent" />
+             <param name="allowFullScreen" value="true" />
+             <embed src="http://www.youtube.com/v/rxUm-2x-2dM"
+                      type="application/x-shockwave-flash"
+                      wmode="transparent" width="425" height="350"
+                      allowFullScreen="true">
+              </embed>
+</object>	
 	</p>
+	
+	
 </div>
 
 <c:url value="/game/new" var="newGamePage"/>
