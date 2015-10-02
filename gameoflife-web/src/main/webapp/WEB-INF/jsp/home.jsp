@@ -88,25 +88,6 @@
         </li>
     </ul>
     </p>
-	<p>
-	Video courtesy of 
-	<a href="https://youtu.be/FdMzngWchDk" target="_blank">John Conway Talks About the Game of Life Part 1</a>.
-	</p>	
-	
-	<p>
-<object width="425" height="350">
-             <param name="movie" value="https://youtu.be/FdMzngWchDk"/>
-             <param name="wmode" value="transparent" />
-             <param name="allowFullScreen" value="true" />
-             <embed src="https://youtu.be/FdMzngWchDk"
-                      type="application/x-shockwave-flash"
-                      wmode="transparent" width="425" height="350"
-                      allowFullScreen="true">
-              </embed>
-</object>	
-	</p>
-	
-	
 </div>
 
 <c:url value="/game/new" var="newGamePage"/>
