@@ -8,7 +8,7 @@
     <!--  TODO: Don't inline this -->
     <style type="text/css">
         h2 {
-            color: orange;
+            color: blue;
             font-family: sans-serif;
         }
 
@@ -88,6 +88,10 @@
         </li>
     </ul>
     </p>
+	<p>
+	Video courtesy of 
+	<a href="https://youtu.be/FdMzngWchDk" target="_blank">John Conway Talks About the Game of Life Part 1</a>.
+	</p>	
 </div>
 
 <c:url value="/game/new" var="newGamePage"/>
