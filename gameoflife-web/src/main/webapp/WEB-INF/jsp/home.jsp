@@ -91,12 +91,13 @@
 	<p>
 	Video courtesy of 
 	<a href="https://youtu.be/FdMzngWchDk" target="_blank">John Conway Talks About the Game of Life Part 1</a>.
-	
-	<video width="320" height="240" controls>
-		<source src="https://youtu.be/FdMzngWchDk" type="video/mp4">
-	Your browser does not support the video tag.
-		</video>
 	</p>	
+	
+	<p>
+		<iframe width="420" height="315"
+			src="https://youtu.be/FdMzngWchDk">
+		</iframe>	
+	</p>
 </div>
 
 <c:url value="/game/new" var="newGamePage"/>
