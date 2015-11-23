@@ -62,6 +62,7 @@
 </head>
 <body>
 <h2>Welcome to Conway's Game Of Life!</h2>
+<h3>Enjoy!</h3>
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
         Life. The Game of Life is a cellular automaton devised by the British
@@ -88,9 +89,7 @@
         </li>
     </ul>
     </p>
-	<p>
-	<a href="https://youtu.be/FdMzngWchDk" target="_blank">Watch John Conway Talks About the Game of Life Part 1</a>.
-	</p>	
+	
 </div>
 
 <c:url value="/game/new" var="newGamePage"/>
