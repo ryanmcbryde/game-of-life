@@ -61,8 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to Conway's Game Of Life Idalia, Ryan, and Jose!</h2>
-<h3>Pipeline </h3>
+<h2>Welcome to Conway's Game Of Life!</h2>
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
         Life. The Game of Life is a cellular automaton devised by the British
